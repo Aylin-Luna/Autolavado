@@ -1,32 +1,59 @@
-# 🧼 Autolavado Pro - Sistema de Gestión
+# 🚗 Autolavado Brillo Total
 
-Bienvenido al repositorio de **Autolavado Pro**, una solución completa para la gestión de servicios de autolavado. Este sistema permite llevar un control eficiente de clientes, vehículos, empleados, servicios prestados y pagos.
+¡Bienvenido al repositorio oficial de **Autolavado Brillo Total**!  
+Aquí encontrarás toda la información relacionada con nuestro servicio, nuestra propuesta digital y el sitio web del autolavado.
 
-## 🚀 Características principales
+## 🌟 ¿Quiénes somos?
 
-- Registro y gestión de clientes
-- Registro de vehículos por cliente
-- Programación de turnos y servicios
-- Gestión de empleados
-- Control de pagos y facturación
-- Reportes diarios y mensuales
+**Autolavado Brillo Total** es un negocio dedicado al lavado y detallado profesional de vehículos. Ofrecemos un servicio rápido, confiable y accesible para mantener tu auto siempre como nuevo.
 
-## 🛠️ Tecnologías utilizadas
+## 🧽 Servicios que ofrecemos
 
-- **Frontend:** HTML, CSS, JavaScript (o React/Vue si aplica)
-- **Backend:** Node.js / Python / PHP / Django / Laravel (según corresponda)
-- **Base de datos:** MySQL / PostgreSQL / MongoDB
-- **Otros:** Bootstrap, Axios, JWT, etc.
+- Lavado exterior e interior
+- Lavado a presión
+- Lavado de motor
+- Encerado y pulido
+- Desinfección y sanitización
+- Detallado premium
 
-## 📷 Capturas de pantalla
+## 🕒 Horarios
 
-![Panel principal](./screenshots/dashboard.png)
-![Registro de vehículos](./screenshots/registro_vehiculo.png)
+| Día        | Horario         |
+|------------|-----------------|
+| Lunes      | 8:00 - 18:00    |
+| Martes     | 8:00 - 18:00    |
+| Miércoles  | 8:00 - 18:00    |
+| Jueves     | 8:00 - 18:00    |
+| Viernes    | 8:00 - 18:00    |
+| Sábado     | 9:00 - 14:00    |
+| Domingo    | Cerrado         |
 
-## ⚙️ Instalación y ejecución
+## 📍 Ubicación
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/autolavado-pro.git
-   cd autolavado-pro
+📌 Av. Principal #123, Ciudad, País  
+📞 Teléfono: (123) 456-7890  
+📧 Email: contacto@brillototal.com
 
+## 💻 Sobre este repositorio
+
+Este repositorio contiene:
+
+- El sitio web del autolavado
+- Información sobre el negocio
+- Posible integración con reservas online
+- Archivos estáticos, HTML, CSS y JS
+
+## 📦 Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+## 🚀 ¿Cómo visualizar el sitio?
+
+Puedes clonar el repositorio y abrir el archivo `index.html` en tu navegador:
+
+```bash
+git clone https://github.com/tuusuario/autolavado-brillo-total.git
+cd autolavado-brillo-total
